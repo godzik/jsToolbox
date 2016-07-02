@@ -37,7 +37,7 @@ var UniqueTags = function (node) {
 var unique = new UniqueTags('*');
 unique.getUniqueTags();
 
-// Module с сокрытием вспомогательных функций
+// Module with concealment of support functions
 
 var UniqueTags = function (node) {
     'use strict';
